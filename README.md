@@ -41,6 +41,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ### 1-Norm of a Matrix
 ![alt text](<Screenshot 2024-12-08 180603.png>)
 
+
 ### 2-Norm of a Matrix
 ![alt text](<Screenshot 2024-12-08 180621.png>)
 
